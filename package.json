@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo app made with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hreshi/node-todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "hreshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hreshi/node-todo/issues"
+  },
+  "homepage": "https://github.com/Hreshi/node-todo#readme"
+}
